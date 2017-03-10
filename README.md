@@ -1,0 +1,2 @@
+# VuePlayerDesktop
+use electron-vue
